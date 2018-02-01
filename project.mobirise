@@ -19,13 +19,18 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
-    "versionPublish": "4.2.4"
+    "versionPublish": "4.6.0",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -109,12 +114,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-383x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-170x256.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -148,8 +152,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/baby-22194-2000x1332.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/baby-22194-1920-1920x1279.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -157,13 +161,13 @@
                 "showTitle": true,
                 "title": "Fundacja dla rodziny",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Udzielamy pomoc małżeństwom<br>i rodzinom<br> w trudnych sytuacjach",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/family-2611748-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/water-fight-442257-1400x1180.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -171,13 +175,13 @@
                 "showTitle": true,
                 "title": "Fundacja dla rodziny",
                 "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "Przekazujemy wzorce małżeńskie <br>i rodzinne pomagające wychować<br> dzieci wolne i otwartye na potrzeby innych",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/lake-3071287-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/lake-3071287-1920-1920x1280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -186,7 +190,7 @@
                 "showTitle": true,
                 "title": "Fundacja dla rodziny",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Pomagamy w rozwoju osobistym, społecznym i duchowym <br>oraz w realizowaniu <br>swoich pasji i zainteresowań",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -230,10 +234,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": "40",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "inverse": true,
+            "imageSize": "46",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -251,11 +255,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/water-fight-442257-1400x1180.jpg",
+              "src": "@PROJECT_PATH@/assets/images/family-2611748-1920-1400x932.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -280,7 +283,7 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             },
             "H3": {
               "text-align": "center",
@@ -292,8 +295,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "40",
+            "inverse": false,
+            "imageSize": "46",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -313,11 +316,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/large-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wigilia-potrawy-wigilijne-380272-1400x937.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
