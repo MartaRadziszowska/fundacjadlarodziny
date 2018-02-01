@@ -152,7 +152,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/baby-22194-1920-1920x1279.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -164,10 +164,11 @@
                 "text": "Udzielamy pomoc małżeństwom<br>i rodzinom<br> w trudnych sytuacjach",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#a38f84"
+                "overlayOpacity": "0.4",
+                "overlayColor": "#28324e"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/water-fight-442257-1400x1180.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -179,8 +180,8 @@
                 "text": "Przekazujemy wzorce małżeńskie <br>i rodzinne pomagające wychować<br> dzieci wolne i otwartye na potrzeby innych",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.3",
-                "overlayColor": "#a38f84"
+                "overlayOpacity": "0.5",
+                "overlayColor": "#232323"
               },
               {
                 "active": false,
@@ -188,7 +189,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Fundacja dla rodziny",
@@ -196,7 +197,7 @@
                 "text": "Pomagamy w rozwoju osobistym, społecznym i duchowym <br>oraz w realizowaniu <br>swoich pasji i zainteresowań",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#3d8eb9"
+                "overlayColor": "#232323"
               }
             ]
           },
